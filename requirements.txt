@@ -1,0 +1,12 @@
+dotenv
+pydantic
+pandas
+typing
+
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-ollama
+
+langgraph
